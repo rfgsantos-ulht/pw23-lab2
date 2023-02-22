@@ -19,16 +19,16 @@
 
 # 1. Repo GitHub 
 1. Crie um repo no GitHub
-2. Numa consola do PYthonAnywhere crie, na pasta onde está o manage.py, um repositorio git
 
-
-1. Clone (descarregue uma cópia) do GitHub para o seu computador o seu repositório com os laboratórios de Programação Web do GitHub:
-    1. abra um processador de comandos (prima a tecla Windows e escreva `cmd` ou `Powershell`)
+2. Clone (descarregue uma cópia) do GitHub para o seu computador o seu repositório com os laboratórios de Programação Web do GitHub:
+    1. abra um consola de comandos (prima a tecla Windows e escreva `cmd` ou `Powershell`)
     2. escolha a pasta onde quer colocar o repositório (navegando com o comando `cd nome-de-pasta` para entrar numa determinada pasta)
     3. clone o seu repositório com o comando:
     ```bash
     > git clone https://github/seuUserName/pw-labs-nomeapelido-numero
     ```
+3. Numa consola PythonAnywhere (menu superior Console - Bash), execute o comando especificado na ponto anterior
+
 
 # 2. A minha primeira página HTML 😀 
 
